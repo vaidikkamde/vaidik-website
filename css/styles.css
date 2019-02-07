@@ -1,0 +1,181 @@
+h1 {
+  margin: 0;
+  font-family: 'Great Vibes', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  margin: 0;
+  font-family: 'Crimson Text', serif;
+  font-size: 1.875rem;
+  padding-bottom: 0.625rem;
+  padding-top: 1.875;
+}
+
+h3 {
+  font-family: 'Crimson Text', serif;
+  color: #11999E;
+}
+
+p {
+  padding-top: 0.625rem;
+  margin: 0;
+}
+
+hr {
+  border: none;
+  border-top: 0.3125rem dotted #333;
+  color: #333;
+  overflow: visible;
+  height: 0.3125rem;
+  width: 3.125rem;
+  margin: 20px auto 30px auto;
+}
+
+footer {
+  display: flex;
+  justify-content:flex-start;
+  padding: 0;
+  margin: 0;
+  background-color: #40514e;
+  color: #fff;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #a0edf7;
+}
+
+.hi {
+  background-color: #f5f5f5;
+  border-radius: 100%;
+  height: 6.25rem;
+  width: 6.25rem;
+}
+.h1r{
+  margin:35px auto 30px auto;
+}
+
+.mountain {
+  padding-top: 3.125rem;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  padding-bottom: 0.625rem;
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+.title {
+  padding-top: 3.125rem;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 25%;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 25%
+}
+
+.top_contanier {
+  margin: 0;
+  background-color: #2f89fc;
+  position: relative;
+  padding-top: 3.125rem;
+}
+
+.middle_contanier {
+  margin: 0;
+  background-color: #a0edf7;
+  padding-top: 0.3125rem;
+  position: relative;
+  bottom: 0.4375rem;
+}
+
+.bottom_contanier {
+  margin: 0;
+  background-color: #2f89fc;
+  margin-top: 20px;
+  position: relative;
+}
+.foot{
+  font-size: 0.6875rem;
+  font-family: serif;
+}
+.footer-link{
+  color: #f5f5f5;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 45px auto 45px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.skill-row1
+{
+  width: 50%;
+  margin: 45px auto 45px auto;
+  text-align: right;
+  line-height: 1.5;
+}
+.code-img{
+  width: 25%;
+  border-radius:100%;
+  float: left;
+  margin-right: 30px;
+}
+.gamepad-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 3px 7px 4px 5px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.mar{
+  margin-bottom: 30px;
+  font-weight: bolder;
+}
+.footer-link{
+  margin: auto;
+  padding: 30px;
+
+}
+.intro{
+  font-weight: bold;
+}
+.app-brewery{
+  color: crimson;
+}
