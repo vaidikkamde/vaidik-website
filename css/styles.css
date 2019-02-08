@@ -124,14 +124,14 @@ a:hover{
 }
 .skill-row
 {
-  width: 50%;
+  width: 60%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
 }
 .skill-row1
 {
-  width: 50%;
+  width: 60%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
@@ -176,7 +176,6 @@ a:hover{
 .mar{
   margin: 10px auto 1.875rem auto;
   font-weight: bolder;
-  width: 40%
 
 }
 .footer-link{
@@ -189,6 +188,9 @@ a:hover{
 
 .intro{
   font-weight: bold;
+  font-size: 16px;
+  width:80%;
+  margin: 10px auto 20px auto;
 }
 .app-brewery{
   color: crimson;
@@ -207,8 +209,23 @@ a:hover{
   width: 2.1875rem;
 }
 .skill{
-  font-size: 1.0625rem;
+
+
+  margin: 10px 10px 18px 10px;
 }
 .copyright{
   font-size: 0.625rem;
+}
+.contact-me{
+  width: 60%;
+  margin: 20px auto 20px auto;
+}
+.profile{
+  width: 60%;
+  margin: 18px auto 20px auto;
+
+}
+.bottom-links{
+  width: 60%;
+  margin: 10px auto 10px auto;
 }
