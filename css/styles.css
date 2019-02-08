@@ -172,12 +172,9 @@ body {
 .footer-link{
   margin: auto;
   padding: 1.25rem;
+  padding-bottom: 10px;
 }
-.feed{
-  font-size: 0.875rem;
-  margin:0;
-  padding:0;
-}
+
 .intro{
   font-weight: bold;
 }
