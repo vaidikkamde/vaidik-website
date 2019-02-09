@@ -12,6 +12,7 @@ h2 {
   font-size: 1.875rem;
   padding-bottom: 0.625rem;
   padding-top: 1.875;
+  font-weight: bolder;
 }
 
 h3 {
@@ -124,14 +125,14 @@ a:hover{
 }
 .skill-row
 {
-  width: 72.5%;
+  width: 60%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
 }
 .skill-row1
 {
-  width: 72.5%;
+  width: 60%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
@@ -188,8 +189,7 @@ a:hover{
 
 .intro{
   font-weight: bold;
-  font-size: 1rem;
-  width:80%;
+  font-size: 1.25rem;
   margin: 0.625rem auto 1.25rem auto;
 }
 .app-brewery{
@@ -201,8 +201,6 @@ a:hover{
 }
 .twitter{
   padding-top: 1.25rem;
-  height: 2.1875rem;
-  width: 2.1875rem;
 }
 .insta{
   height: 2.1875rem;
@@ -217,15 +215,18 @@ a:hover{
   font-size: 0.625rem;
 }
 .contact-me{
-  width: 60%;
+  width: 50%;
   margin: 1.25rem auto 1.25rem auto;
 }
 .profile{
-  width: 72.5%;
+  width: 60%;
   margin: 1.125rem auto 1.25rem auto;
 
 }
 .bottom-links{
-  width: 72.5%;
+  width: 50%;
   margin: 0.625rem auto 0.625rem auto;
+}
+.skills{
+  position: relative;
 }
