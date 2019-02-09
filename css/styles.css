@@ -125,14 +125,12 @@ a:hover{
 }
 .skill-row
 {
-  width: 50%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
 }
 .skill-row1
 {
-  width: 50%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
@@ -229,4 +227,7 @@ a:hover{
 }
 .skills{
   position: relative;
+}
+.center{
+  text-align: center;
 }
