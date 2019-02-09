@@ -125,14 +125,14 @@ a:hover{
 }
 .skill-row
 {
-  width: 60%;
+  width: 50%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
 }
 .skill-row1
 {
-  width: 60%;
+  width: 50%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
@@ -219,7 +219,7 @@ a:hover{
   margin: 1.25rem auto 1.25rem auto;
 }
 .profile{
-  width: 60%;
+  width: 80%;
   margin: 1.125rem auto 1.25rem auto;
 
 }
